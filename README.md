@@ -5,8 +5,11 @@ I am a 15 year old aspiring Informatin Technology(IT) student. I created this re
 
 ## 🎯My Goals
 Foundation: Master the fundementals of Networking, Linux, and the OSI model.
+
 Certification: Study for and eventually achieve entry-level certifications like CompTIA Security+, CompTIA Network+, CISSP, and SAL1
+
 Practical skills: Move from theoery to hands on practice by completing labs on platforms like TryHackMe.
+
 Specialization: Explore both Deffensive and Offensive Security to decide on a career path in Pen testing or Security analyst.
 
 ## 📈Why i am Tracking my Progress on GitHub
