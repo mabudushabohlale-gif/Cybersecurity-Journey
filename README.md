@@ -19,4 +19,5 @@ Proof of Work: To build a living portfolio that demonstrates my technical writit
 
 Knowledge Base: To create a searchable personal library of commands, configurations, and walkthroughs tat i can refer back to at any time.
 
-### 📚KnowledgeBase and Lab Notes
+## 📚KnowledgeBase and Lab Notes
+In this repository, you will find the modules and labs that i am currently working through.
