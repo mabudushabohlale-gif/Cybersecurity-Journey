@@ -13,8 +13,8 @@ Practical skills: Move from theoery to hands on practice by completing labs on p
 Specialization: Explore both Deffensive and Offensive Security to decide on a career path in Pen testing or Security analyst.
 
 ## 📈Why i am Tracking my Progress on GitHub
-Accountability: Publicly documenting my journey keeps me motivated and consistent
+Accountability: Publicly documenting my journey keeps me motivated and consistent.
 
-Proof of Work: To build a living portfolio that demonstrates my technical writitng skills and hands on experiance to future mentors and employers
+Proof of Work: To build a living portfolio that demonstrates my technical writitng skills and hands on experiance to future mentors and employers.
 
 Knowledge Base: 
