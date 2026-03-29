@@ -1,4 +1,4 @@
-# Cybersecurity-Journey
+# Cybersecurity-Progress-Journey
 
 ## 👤About Me
 I am a 15 year old aspiring Information Technology(IT) student. I created this repository to document my technical growth, lab notes and the concepts i master as i work towards a career in cybersecurity.
@@ -17,10 +17,10 @@ Accountability: Publicly documenting my journey keeps me motivated and consisten
 
 Proof of Work: To build a living portfolio that demonstrates my technical writitng skills and hands on experiance to future mentors and employers.
 
-Knowledge Base: To create a searchable personal library of commands, configurations, and walkthroughs tat i can refer back to at any time.
+Knowledge Base: To create a searchable personal library of commands, configurations, and walkthroughs that i can refer back to at any time.
 
 ## 📚Topics to be covered
--Ofensive and defensive security
+-Ofensive and defensive security✅
 
 -Networking fundementals
 
