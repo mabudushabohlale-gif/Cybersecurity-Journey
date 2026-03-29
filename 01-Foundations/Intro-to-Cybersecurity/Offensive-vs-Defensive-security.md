@@ -42,7 +42,7 @@ Defensive security focuses on protecting systems and detecting attacks.
 - Incident response
 
 ### 🧰Tools used
-- SIEM tools (e.g Splunk)
+- SIEM tools (e.g, Splunk)
 - Firewalls
 - Antivirus software
 
@@ -58,7 +58,7 @@ ___
 
 ___
 
-## What i learned
+## What I learned
 - Cybersecurity has two main roles: attacking⚔️ and defending🛡️.
 - Both are important and work together🤝.
 - Understanding both helps me decide my career path🎯.
@@ -66,4 +66,4 @@ ___
 ___
 
 ## 🗨️My thoughts
-I am currently more interested in **defensive Security🛡️ (Security Analyst)**, but will futher explore both to understand how attacks work and how to defend against them.
+I am currently more interested in **defensive Security🛡️ (Security Analyst)**, but will further explore both to understand how attacks work and how to defend against them.
