@@ -21,9 +21,15 @@ Knowledge Base: To create a searchable personal library of commands, configurati
 
 ## 📚Topics to be covered
 -Ofensive and defensive security
+
 -Networking fundementals
+
 -How the web works
+
 -Computer fundementals
+
 -Operating systems basic
+
 -Software basics
+
 -Attacks and defenses
