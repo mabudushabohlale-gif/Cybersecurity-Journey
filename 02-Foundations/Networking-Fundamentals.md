@@ -5,4 +5,5 @@ This section covers the fundamentals of netwoking, including how devices communi
 
 ___
 
-## 🛜What is NEtworking?
+## 🛜What is Networking?
+Networking is the process by which devices are connected to communicate and exchange data with each other.
