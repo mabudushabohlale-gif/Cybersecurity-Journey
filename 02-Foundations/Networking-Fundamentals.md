@@ -18,7 +18,7 @@ Networking is the process by which devices are connected to communicate and exch
 - Networking is sent and received in the form of packets.
 - Devices in a network are called hosts.
 - Networks can be local(LAN) or global(Internet).
-- Communication relies on protocols like Domain Name System(DNS) and Hypertext Transfer Protocol(HTTP).
+- Communication relies on protocols like Domain Name System (DNS) and Hypertext Transfer Protocol (HTTP).
 
 ### 💻Examples
 1. Your devies sends a request
