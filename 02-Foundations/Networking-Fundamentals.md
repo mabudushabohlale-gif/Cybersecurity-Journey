@@ -68,7 +68,7 @@ ___
 
 ___
 
-##💻Examples
+## 💻Examples
 When you visit a website:
 
 1. Your device gets an IP from DHCP
