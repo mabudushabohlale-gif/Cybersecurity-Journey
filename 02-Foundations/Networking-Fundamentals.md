@@ -14,14 +14,14 @@ Networking is the process by which devices are connected to communicate and exch
 **WAN**: Large network connecting multiple LANS (Internet)
 
 ### 🔑Key points
-- Networking allows devices to communicate with each other.
-- Networking is sent and received in the form of packets.
-- Devices in a network are called hosts.
-- Networks can be local (LAN) or global (Internet).
-- Communication relies on protocols like Domain Name System (DNS) and Hypertext Transfer Protocol (HTTP).
+- Networking allows devices to communicate with each other
+- Networking is sent and received in the form of packets
+- Devices in a network are called hosts
+- Networks can be local (LAN) or global (Internet)
+- Communication relies on protocols like Domain Name System (DNS) and Hypertext Transfer Protocol (HTTP)
 
 ### 💻Examples
-1. Your devies sends a request
+1. Your device sends a request
 2. Your request travels through the network using routers
 3. The server receives the request
 4. The server sends back a response to your device
@@ -43,7 +43,7 @@ ___
 
 ___
 
-## 🔁ARP (Address Resolution Protoco)
+## 🔁ARP (Address Resolution Protocol)
 - Maps an IP into a **MAC address**
 - Ensures data reaches the correct device in a LAN
 - Works automatically in the background
@@ -74,8 +74,8 @@ When you visit a website:
 1. Your device gets an IP from DHCP
 2. Sends a request through routers
 3. Routers fowards packets using IP addressing
-4. ARP Revolves around MAC addresses in local netwroks
-5. Server responds - response follows best path back
+4. ARP Revolves around MAC addresses in local networks
+5. Server responds (response follows best path back)
 
 ___
 
